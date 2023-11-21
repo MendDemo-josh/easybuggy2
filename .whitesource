@@ -2,7 +2,7 @@
   "scanSettings": {
     "configMode": "AUTO",
     "configExternalURL": "",
-    "baseBranches": [],
+    "baseBranches": ["JoshBranch-EB2","master"],
     "enableIaC": false,
     "enableLicenseViolations": false,
     "enableReachability": false
