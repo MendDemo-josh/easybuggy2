@@ -21,7 +21,7 @@
     "strictMode": "warning"
   },
   "issueSettings": {
-    "minSeverityLevel": "NONE",
+    "minSeverityLevel": "LOW",
     "issueType": "DEPENDENCY"
   },
   "imageSettings": {
